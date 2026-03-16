@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Hotel California",
+  "base_artist": "イーグルス",
+  "createdAt": "2026-03-16T11:11:14.741398Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hotel California - 2013 Remaster",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/01_Hotel_California_-_2013_Remaster_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hotel California",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/02_Hotel_California_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hotel California",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/03_Hotel_California_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hotel California",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/04_Hotel_California_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hotel California - 2013 Remaster",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/05_Hotel_California_-_2013_Remaster_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hotel California (Live; 1999 Remaster)",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/06_Hotel_California_(Live;_1999_Remaster)_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hotel California - Live at The Forum, Los Angeles, CA, 10/20-22/1976",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/07_Hotel_California_-_Live_at_The_Forum,_Los_Angeles,_CA,_10_20-22_1976_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hotel California (live at the Los Angeles Forum, 10\u000020–22\u000076)",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/08_Hotel_California_(live_at_the_Los_Angeles_Forum,_10\u000020–22\u000076)_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hotel California",
+      "artist": "Swim Deep",
+      "has_synced": true,
+      "path": "select/09_Hotel_California_Swim_Deep.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hotel California",
+      "artist": "Tangerine Dream",
+      "has_synced": false,
+      "path": "select/10_Hotel_California_Tangerine_Dream.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hotel California (2013 Remaster)",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/11_Hotel_California_(2013_Remaster)_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hotel California (2013 Remaster) (Explicit)",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/12_Hotel_California_(2013_Remaster)_(Explicit)_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hotel California (Remastered)",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/13_Hotel_California_(Remastered)_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hotel California",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/14_Hotel_California_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hotel California",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/15_Hotel_California_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hotel California - Live at Staples Center, Los Angeles, CA, 12/31/1999",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/16_Hotel_California_-_Live_at_Staples_Center,_Los_Angeles,_CA,_12_31_1999_Eagles.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hotel California",
+      "artist": "Eagles",
+      "has_synced": false,
+      "path": "select/pl_01_Hotel_California_Eagles.txt"
+    }
+  ]
+}
